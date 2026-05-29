@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tool outputs (generated at runtime)
+screenshots_*/
+session_*/
+ocr_output*/
+final_code*/
+capture_*/
+
+# Environment & secrets
+.env
+.env.local
